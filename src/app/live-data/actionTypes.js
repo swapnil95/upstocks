@@ -1,0 +1,11 @@
+/*
+ * Data Fetching
+*/
+const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS'
+const FETCH_DATA_FAILURE = 'FETCH_DATA_FAILURE'
+
+
+export default {
+  FETCH_DATA_SUCCESS,
+  FETCH_DATA_FAILURE
+}
