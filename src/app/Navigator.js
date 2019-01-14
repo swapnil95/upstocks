@@ -75,6 +75,9 @@ const styles = theme => ({
       width: 256,
       flexShrink: 0,
     },
+  },
+  link: {
+    textDecoration: 'none'
   }
 })
 
@@ -91,7 +94,7 @@ function Navigator(props) {
           Dashboard
         </ListItem>
         {NAVIGATIONS.map(({ id, icon, active, link }) => (
-          <Link to={link} key={id}>
+          <Link to={link} key={id} className={classes.link}>
             <ListItem
               button
               dense
