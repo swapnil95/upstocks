@@ -2,20 +2,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-### `Install dependencies`
+### Install dependencies
 
-yarn install
+`yarn install`
 
-### `Run the app in dev mode`
+### Run the app in dev mode
 
-yarn run dev
+`yarn run dev`
 
-### `Run the app in production mode`
+### Run the app in production mode
 
-yarn run build
-
-
-yarn global add serve
+`yarn run build`
 
 
-serve -s build
+`yarn global add serve`
+
+
+`serve -s build`
