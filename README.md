@@ -13,5 +13,9 @@ yarn run dev
 ### `Run the app in production mode`
 
 yarn run build
+
+
 yarn global add serve
+
+
 serve -s build
