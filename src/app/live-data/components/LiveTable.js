@@ -3,7 +3,7 @@ import ReactTable from 'react-table'
 import 'react-table/react-table.css'
 import Paper from '@material-ui/core/Paper'
 
-import SectionWrapper from 'app/common/section-wrapper'
+import SectionWrapper from '../../common/section-wrapper'
 
 
 const columns = [{

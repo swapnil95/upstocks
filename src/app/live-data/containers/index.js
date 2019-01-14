@@ -9,7 +9,7 @@ import {
 } from '../thunks'
 import LiveChart from '../components/LiveChart'
 import LiveTable from '../components/LiveTable'
-import { formatData } from 'app/utils'
+import { formatData } from '../../utils'
 
 
 const COMPONENT_MAP = {

@@ -8,7 +8,7 @@ import Navigator from './Navigator'
 import Home from './home/containers'
 import LiveData from './live-data/containers'
 import Search from './search/containers'
-import Header from 'app/common/header'
+import Header from './common/header'
 
 
 const drawerWidth = 156;

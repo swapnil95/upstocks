@@ -2,8 +2,8 @@ import React, { Component } from 'react'
 import Paper from '@material-ui/core/Paper'
 import ReactHighstock from 'react-highcharts/ReactHighstock'
 
-import withNetworkStatus from 'app/common/hoc/withNetworkStatus'
-import SectionWrapper from 'app/common/section-wrapper'
+import withNetworkStatus from '../../common/hoc/withNetworkStatus'
+import SectionWrapper from '../../common/section-wrapper'
 
 
 class HistoricalChart extends Component {

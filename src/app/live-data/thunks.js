@@ -1,7 +1,7 @@
 import shortid from 'short-id'
 
-import * as API from 'api'
-import { networkHandler, formatData } from 'app/utils'
+import * as API from '../../api'
+import { networkHandler, formatData } from '../utils'
 import actionTypes from './actionTypes'
 
 /*

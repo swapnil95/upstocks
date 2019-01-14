@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Paper from '@material-ui/core/Paper'
 import ReactHighstock from 'react-highcharts/ReactHighstock'
 
-import SectionWrapper from 'app/common/section-wrapper'
+import SectionWrapper from '../../common/section-wrapper'
 
 
 class LiveChart extends Component {

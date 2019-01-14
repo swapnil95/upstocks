@@ -12,7 +12,7 @@ import HomeIcon from '@material-ui/icons/Home'
 import ShowChart from '@material-ui/icons/ShowChart'
 import TableChart from '@material-ui/icons/TableChart'
 import Search from '@material-ui/icons/Search'
-import { withRouter } from "react-router"
+import { withRouter } from 'react-router'
 
 
 const NAVIGATIONS = [{

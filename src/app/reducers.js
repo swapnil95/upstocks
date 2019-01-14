@@ -1,7 +1,7 @@
 import { combineReducers } from 'redux'
 
-import home from 'app/home/reducers'
-import live from 'app/live-chart/reducers'
+import home from './home/reducers'
+import live from './live-data/reducers'
 /*
  * Root Reducer for combining all single reducers
  */
